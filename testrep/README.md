@@ -11,3 +11,5 @@ an overview of what this repository includes:
    2. **Labs**
 		- A subdirectory containing files for in-class lab assignments.
 		- Includes relevant programming scripts used for computational excersies, along with any accompanying reports.
+
+This repository contains all the work I'll complete in APPM 4600, making it easy to track my progress and revisit key concepts as needed.
