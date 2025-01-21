@@ -1,1 +1,1 @@
-This repository contains my homework files
+This repository contains my homework and lab files for my APPM 4600 Numerical Methods class for this Spring of 2025. 
