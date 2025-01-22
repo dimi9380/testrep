@@ -1,3 +1,5 @@
+Mishra
+
 # APPM 4600 Numerical Methods Repository
 
 This repository contains my homework and lab files for my **APPM 4600 Numerical Methods** course for the Spring 2025 semester. It is organized to
